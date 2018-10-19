@@ -5,14 +5,17 @@
     <description>Hot Tech News</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 18 Oct 2018 22:28:11 +0530</pubDate>
-    <lastBuildDate>Thu, 18 Oct 2018 22:28:11 +0530</lastBuildDate>
+    <pubDate>Fri, 19 Oct 2018 23:06:27 +0530</pubDate>
+    <lastBuildDate>Fri, 19 Oct 2018 23:06:27 +0530</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>Myths of Blockchain</title>
         <description>&lt;h2 id=&quot;blockchain-is-free-free-free&quot;&gt;Blockchain is Free Free Free&lt;/h2&gt;
-&lt;p&gt;Blockchain is not at all free. Rather it is less expensive. Blockchain blocks are created by miners by spending huge compuation power, for that they get paid. So in blockchain, miners are the middle man.&lt;/p&gt;
+&lt;p&gt;Blockchain is not really free. Rather it is less expensive. Blockchain blocks are created by miners by spending huge compuation power, for that they get paid. So in blockchain, miners are the middle man.&lt;/p&gt;
+
+&lt;h2 id=&quot;blockchain-ledgers-are-immutable-and-irrevocable&quot;&gt;Blockchain ledgers are immutable and irrevocable&lt;/h2&gt;
+
 </description>
         <pubDate>Thu, 18 Oct 2018 21:48:54 +0530</pubDate>
         <link>http://yourdomain.com/blockchain/2018/10/18/Myths-of-Blockchain.html</link>
